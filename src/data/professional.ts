@@ -1,12 +1,12 @@
 export const professionalData = {
-  image: "/aryan-photo.png",
+  image: "/Aryan-Portfolio/aryan-photo.png",
   imageAlt: "Aryan Kumar - Full Stack Developer",
 
   experience: [
     {
       title: "Google Summer of Code Contributor",
       organization: "Apache Software Foundation",
-      logo: "/gsoc-logo.svg",
+      logo: "/Aryan-Portfolio/gsoc-logo.svg",
       duration: "May 2025 - Present",
       description: "Selected in top 5% of 23,000+ applicants worldwide",
       highlights: [
@@ -32,25 +32,25 @@ export const professionalData = {
     {
       title: "Spring Boot 0 to 1 - Fundamentals",
       issuer: "CodingShuttle",
-      logo: "/coding-shuttle-icon.svg",
+      logo: "/Aryan-Portfolio/coding-shuttle-icon.svg",
       url: "https://app.codingshuttle.com/certificate/verify/QUXAZBRN",
     },
     {
       title: "Spring Boot 1 to 100 - Expert",
       issuer: "CodingShuttle",
-      logo: "/coding-shuttle-icon.svg",
+      logo: "/Aryan-Portfolio/coding-shuttle-icon.svg",
       url: "https://app.codingshuttle.com/certificate/verify/2712A3RW",
     },
     {
       title: "React 19 Course 0 to 1",
       issuer: "CodingShuttle",
-      logo: "/coding-shuttle-icon.svg",
+      logo: "/Aryan-Portfolio/coding-shuttle-icon.svg",
       url: "https://app.codingshuttle.com/certificate/verify/T6E52576",
     },
     {
       title: "React 19 Course 1 to 100",
       issuer: "CodingShuttle",
-      logo: "/coding-shuttle-icon.svg",
+      logo: "/Aryan-Portfolio/coding-shuttle-icon.svg",
       status: "In Progress",
     },
   ],
@@ -137,73 +137,73 @@ export const professionalData = {
   techStack: [
     {
       name: "Java",
-      logo: "/icons/java.svg",  // Local path - replace with your image path
+      logo: "/Aryan-Portfolio/icons/java.svg",  // Local path - replace with your image path
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",  // Fallback URL
       color: "from-orange-500 to-red-500",
     },
     {
       name: "React",
-      logo: "/icons/react.svg",
+      logo: "/Aryan-Portfolio/icons/react.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
       color: "from-cyan-400 to-blue-500",
     },
     {
       name: "TypeScript",
-      logo: "/icons/typescript.svg",
+      logo: "/Aryan-Portfolio/icons/typescript.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
       color: "from-blue-600 to-blue-700",
     },
     {
       name: "Next.js",
-      logo: "/icons/nextjs.svg",
+      logo: "/Aryan-Portfolio/icons/nextjs.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
       color: "from-gray-700 to-black",
     },
     {
       name: "Spring Boot",
-      logo: "/icons/spring.svg",
+      logo: "/Aryan-Portfolio/icons/spring.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg",
       color: "from-green-500 to-green-600",
     },
     {
       name: "Python",
-      logo: "/icons/python.svg",
+      logo: "/Aryan-Portfolio/icons/python.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
       color: "from-blue-400 to-yellow-400",
     },
     {
       name: "PostgreSQL",
-      logo: "/icons/postgresql.svg",
+      logo: "/Aryan-Portfolio/icons/postgresql.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
       color: "from-blue-600 to-indigo-600",
     },
     {
       name: "Docker",
-      logo: "/icons/docker.svg",
+      logo: "/Aryan-Portfolio/icons/docker.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
       color: "from-blue-500 to-cyan-500",
     },
     {
       name: "Git",
-      logo: "/icons/git.svg",
+      logo: "/Aryan-Portfolio/icons/git.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg",
       color: "from-red-500 to-orange-500",
     },
     {
       name: "Tailwind CSS",
-      logo: "/icons/tailwind.svg",
+      logo: "/Aryan-Portfolio/icons/tailwind.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
       color: "from-cyan-400 to-blue-500",
     },
     {
       name: "MongoDB",
-      logo: "/icons/mongodb.svg",
+      logo: "/Aryan-Portfolio/icons/mongodb.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
       color: "from-green-500 to-green-600",
     },
     {
       name: "Redis",
-      logo: "/icons/redis.svg",
+      logo: "/Aryan-Portfolio/icons/redis.svg",
       logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg",
       color: "from-red-500 to-red-600",
     },
@@ -219,7 +219,7 @@ export const professionalData = {
       category: "Spring Boot",
       tags: ["Security", "OpenID Connect", "Spring Security", "Enterprise"],
       readTime: "8 min read",
-      image: "/article-1-preview.png",
+      image: "/Aryan-Portfolio/article-1-preview.png",
       link: "#",
       featured: true,
     },
@@ -232,7 +232,7 @@ export const professionalData = {
       category: "Open Source",
       tags: ["GSoC", "Open Source", "Apache", "Java"],
       readTime: "10 min read",
-      image: "/article-2-preview.png",
+      image: "/Aryan-Portfolio/article-2-preview.png",
       link: "#",
       featured: true,
     },
@@ -245,7 +245,7 @@ export const professionalData = {
       category: "Architecture",
       tags: ["Microservices", "Docker", "Spring Boot", "Architecture"],
       readTime: "12 min read",
-      image: "/article-3-preview.png",
+      image: "/Aryan-Portfolio/article-3-preview.png",
       link: "#",
       featured: false,
     },

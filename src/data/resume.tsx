@@ -9,7 +9,7 @@ export const resumeData = {
     "Aspiring Software Engineer with a growth mindset. Proven track record of building scalable open-source solutions and eager to apply engineering principles to solve real-world problems. Experienced in Multi-Agent Systems, Microservices, and Full Stack Development.",
   summary:
     "Open Source Contributor and Software Engineering Intern with experience in scalable systems, cloud infrastructure, and AI-driven applications. Contributed to Apache DolphinScheduler, optimizing performance for thousands of users. Passionate about distributed systems, microservices, and agentic AI.",
-  avatarUrl: "/aryan-photo.png", // Profile image of Aryan Kumar
+  avatarUrl: "/Aryan-Portfolio/aryan-photo.png", // Profile image of Aryan Kumar
   personalWebsiteUrl: "https://portfolio.aryan.com", // Placeholder
   contact: {
     email: "aryankumartus@gmail.com",
