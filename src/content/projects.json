@@ -1,0 +1,103 @@
+{
+  "projects": [
+    {
+      "title": "Agentic AI Candidate Career Platform",
+      "href": "https://github.com/tusaryan/Multi-Agent-Resume-Engine",
+      "dates": "July 2025",
+      "active": true,
+      "description": "Multi-agent system built with crewAI to automate resume tailoring and interview preparation. Analyzes job postings, profiles candidates, and generates targeted interview materials.",
+      "technologies": ["Multi-Agent Systems", "Python", "crewAI", "LLMs", "OpenAI"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/Multi-Agent-Resume-Engine"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Piezoelectrics AI Discovery Lab",
+      "href": "https://github.com/tusaryan/Piezoelectrics-AI-Discovery-Lab",
+      "dates": "Aug 2024",
+      "active": true,
+      "description": "AI-assisted discovery of lead-free piezoelectric materials using ensemble ML models. Achieved 69% R² score using Random Forest and XGBoost.",
+      "technologies": ["Machine Learning", "FastAPI", "React", "XGBoost", "LightGBM", "Materials Science"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/Piezoelectrics-AI-Discovery-Lab"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Professional Networking Platform (LinkedIn Clone)",
+      "href": "https://github.com/tusaryan/Professional-Networking-Platform",
+      "dates": "Jan 2025",
+      "active": true,
+      "description": "Distributed microservices platform supporting 10,000+ concurrent users. 6+ Java Spring Boot microservices with Kafka event streaming, deployed on Docker & Kubernetes.",
+      "technologies": ["Microservices", "Docker", "Kubernetes", "Spring Boot", "Neo4j", "Kafka", "PostgreSQL"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/Professional-Networking-Platform"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Ride-Booking Engine (Uber Clone)",
+      "href": "https://github.com/tusaryan/ride-booking-app",
+      "dates": "Oct 2024",
+      "active": true,
+      "description": "Production-grade ride-booking backend with real-time matching, wallet payments, and geospatial features. Uses PostGIS for location services.",
+      "technologies": ["Java", "Spring Boot", "Spring Security", "PostgreSQL", "PostGIS", "JWT", "REST APIs"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/ride-booking-app"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Flight Difficulty Scoring Model",
+      "href": "https://github.com/tusaryan/Flight-Difficulty-Scoring-Model",
+      "dates": "Sep 2024",
+      "active": true,
+      "description": "Data-driven operational framework quantifying flight complexity from multi-source operational data. Engineered 30+ features across ground time, baggage, passenger dynamics.",
+      "technologies": ["Python", "Pandas", "Feature Engineering", "Data Analysis", "EDA", "YAML Configuration"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/Flight-Difficulty-Scoring-Model"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Consumer Behavior Analysis",
+      "href": "https://github.com/tusaryan/consumer-behavior",
+      "dates": "Nov 2024",
+      "active": true,
+      "description": "Big data analysis of Amazon customer reviews using PySpark for ETL. Applied K-Means clustering for customer segmentation and Apriori algorithm.",
+      "technologies": ["PySpark", "Python", "Machine Learning", "NLP", "AWS", "SQL", "K-Means", "Apriori"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/consumer-behavior"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Web Scraping & Data Collection",
+      "href": "https://github.com/tusaryan/AmbitionBox-Web-Scraping",
+      "dates": "Oct 2024",
+      "active": true,
+      "description": "Industrial-scale web scraping project extracting 10,000+ company reviews from AmbitionBox. Implemented robust error handling, rate limiting, and data validation.",
+      "technologies": ["Python", "BeautifulSoup", "Selenium", "Data Scraping", "Data Cleaning", "Regex"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/AmbitionBox-Web-Scraping"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Spring AI Chat Bot",
+      "href": "https://github.com/tusaryan/SpringAiBot",
+      "dates": "Apr 2025",
+      "active": true,
+      "description": "Full-stack AI chatbot with image and recipe generation plus multi-modal chat support. Integrated Spring AI with LLM APIs for intelligent conversation.",
+      "technologies": ["Java", "Spring Boot", "Spring AI", "React", "LLMs", "REST APIs"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/SpringAiBot"}],
+      "image": "",
+      "video": ""
+    },
+    {
+      "title": "Spring Boot Testing App",
+      "href": "https://github.com/tusaryan/TestingApp",
+      "dates": "Jun 2024",
+      "active": true,
+      "description": "Comprehensive testing framework for Spring Boot applications. Demonstrates unit testing, integration testing, and end-to-end testing best practices.",
+      "technologies": ["Java", "Spring Boot", "JUnit", "Mockito", "Testing"],
+      "links": [{"type": "Source", "href": "https://github.com/tusaryan/TestingApp"}],
+      "image": "",
+      "video": ""
+    }
+  ]
+}

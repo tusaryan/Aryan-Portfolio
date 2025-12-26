@@ -1,0 +1,48 @@
+{
+  "openSourceContributions": [
+    {
+      "title": "Fix DataSource/JDBC connection failure",
+      "prNumber": 17081,
+      "issueNumber": 17073,
+      "repository": "apache/dolphinscheduler",
+      "status": "Merged",
+      "date": "Mar 2025",
+      "description": "Fixed JDBC connection failure to Hive by correcting the JDBC URL construction, changing separator from (?) to (;) for connection parameters",
+      "technologies": [
+        "Java",
+        "Apache DolphinScheduler"
+      ],
+      "url": "https://github.com/apache/dolphinscheduler/pull/17081",
+      "company": {
+        "name": "Apache",
+        "logo": "/apache.png"
+      }
+    },
+    {
+      "title": "Support setting max.concurrent.workflow.instances",
+      "prNumber": 17159,
+      "issueNumber": 17157,
+      "repository": "apache/dolphinscheduler",
+      "status": "Merged",
+      "date": "Jul 2025",
+      "description": "Implemented new configuration option to limit concurrent workflow instances on master server, enhancing server load protection and preventing overload scenarios",
+      "highlights": [
+        "Added configuration property: max.concurrent.workflow.instances",
+        "Refactored MasterServerLoadProtection with system resource thresholds",
+        "Resolved NullPointerException during MasterServer startup",
+        "Created comprehensive unit tests covering new functionality",
+        "Updated documentation with configuration examples"
+      ],
+      "technologies": [
+        "Java",
+        "Spring",
+        "Apache DolphinScheduler"
+      ],
+      "url": "https://github.com/apache/dolphinscheduler/pull/17159",
+      "company": {
+        "name": "Apache",
+        "logo": "/apache.png"
+      }
+    }
+  ]
+}

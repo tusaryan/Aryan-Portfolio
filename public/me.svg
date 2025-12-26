@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user">
+  <rect width="100" height="100" fill="#e5e7eb"/>
+  <circle cx="50" cy="35" r="20" stroke="#9ca3af" fill="none"/>
+  <path d="M20 85c0-15 15-25 30-25s30 10 30 25" stroke="#9ca3af" fill="none"/>
+</svg>

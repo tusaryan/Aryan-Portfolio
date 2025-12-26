@@ -1,0 +1,42 @@
+{
+  "achievements": [
+    {
+      "title": "Top 5% of 23,000+ applicants worldwide",
+      "description": "Selected for Google Summer of Code 2025, contributing to Apache Software Foundation",
+      "year": "2025"
+    },
+    {
+      "title": "First Merged Pull Request",
+      "description": "Recognized for successful contribution to Apache DolphinScheduler open-source project",
+      "year": "2025"
+    },
+    {
+      "title": "Full Stack Development Expertise",
+      "description": "Completed multiple complex projects spanning microservices, databases, and frontend technologies",
+      "year": "2024-2025"
+    }
+  ],
+  "leadershipRoles": [
+    {
+      "position": "Implementation Body Member",
+      "organization": "IEEE PEC Student Branch, Chandigarh",
+      "logo": "/ieee-logo.png",
+      "duration": "Sep 2024 - Present",
+      "description": "Leading technical initiatives and implementation of projects"
+    },
+    {
+      "position": "Member (Previously Member)",
+      "organization": "IEEE PEC Student Branch, Chandigarh",
+      "logo": "/ieee-logo.png",
+      "duration": "Jan 2024 - Sep 2024",
+      "description": "Active participant in technical and community-building activities"
+    },
+    {
+      "position": "Volunteer",
+      "organization": "NSS PEC (National Service Scheme)",
+      "logo": "/NSS-symbol.png",
+      "duration": "Aug 2023 - Present",
+      "description": "Teaching students in ABHA Program (community service initiative)"
+    }
+  ]
+}

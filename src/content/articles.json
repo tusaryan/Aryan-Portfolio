@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Building Secure Authentication with OpenID Connect in Spring Boot",
+    "description": "A comprehensive guide on implementing OIDC authentication in Apache DolphinScheduler for enterprise-grade security with Keycloak, Okta, and Azure AD integration.",
+    "author": "Aryan Kumar",
+    "date": "July 2025",
+    "category": "Spring Boot",
+    "tags": [
+      "Security",
+      "OpenID Connect",
+      "Spring Security",
+      "Enterprise"
+    ],
+    "readTime": "8 min read",
+    "image": "/article-1-preview.png",
+    "link": "https://medium.com/your-article-link-1",
+    "featured": true
+  },
+  {
+    "title": "Google Summer of Code 2025 Experience: Contributing to Apache DolphinScheduler",
+    "description": "Insights and learnings from being selected in the top 5% of 23,000+ GSoC applicants and my journey contributing to Apache open-source projects.",
+    "author": "Aryan Kumar",
+    "date": "June 2025",
+    "category": "Open Source",
+    "tags": [
+      "GSoC",
+      "Open Source",
+      "Apache",
+      "Java"
+    ],
+    "readTime": "10 min read",
+    "image": "/article-2-preview.png",
+    "link": "https://dev.to/chen_debra_3060b21d12b1b0/apache-dolphinscheduler-331-is-released-more-stable-faster-safer-1ah2",
+    "featured": true
+  },
+  {
+    "title": "Microservices Architecture Best Practices in Modern Web Development",
+    "description": "Practical guide to designing scalable microservices using Spring Boot, Docker, and Kubernetes with real-world examples.",
+    "author": "Aryan Kumar",
+    "date": "May 2025",
+    "category": "Architecture",
+    "tags": [
+      "Microservices",
+      "Docker",
+      "Spring Boot",
+      "Architecture"
+    ],
+    "readTime": "12 min read",
+    "image": "/article-3-preview.png",
+    "link": "https://medium.com/your-article-link-3",
+    "featured": false
+  },
+  {
+    "title": "Optimizing React Performance for High-Scale Applications",
+    "description": "Deep dive into React 19 features, useMemo, and virtualization techniques to handle large datasets effectively.",
+    "author": "Aryan Kumar",
+    "date": "Aug 2025",
+    "category": "Frontend",
+    "tags": [
+      "React",
+      "Performance",
+      "Web Optimization"
+    ],
+    "readTime": "6 min read",
+    "image": "",
+    "link": "https://medium.com/@aryankumar",
+    "featured": false
+  },
+  {
+    "title": "Understanding Distributed Systems Patterns",
+    "description": "Explaining core patterns like Circuit Breaker, Saga, and CQRS with simple analogies and code snippets.",
+    "author": "Aryan Kumar",
+    "date": "Sep 2025",
+    "category": "System Design",
+    "tags": [
+      "Distributed Systems",
+      "Backend",
+      "Architecture"
+    ],
+    "readTime": "9 min read",
+    "image": "",
+    "link": "https://dev.to/aryankumar",
+    "featured": true
+  }
+]

@@ -1,0 +1,39 @@
+{
+    "education": [
+        {
+            "school": "Punjab Engineering College",
+            "degree": "B.Tech in Metallurgical and Materials Engineering",
+            "start": "Aug 2023",
+            "end": "May 2027",
+            "logo": "/PEC-LOGO.png",
+            "details": [
+                "Minor Specialization in Data Science",
+                "Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, DBMS",
+                "CGPA: 7.91",
+                "Joint Head, E-Summit: Executed operations for premier event"
+            ]
+        },
+        {
+            "school": "St. Xavier's School",
+            "degree": "Senior Secondary Education (ISC Board)",
+            "start": "2019",
+            "end": "2021",
+            "logo": "/sxd-logo.png",
+            "details": [
+                "Ranchi, Jharkhand",
+                "Focus on Science and Mathematics"
+            ]
+        },
+        {
+            "school": "St. Ann's School",
+            "degree": "Secondary Education (ICSE Board)",
+            "start": "2007",
+            "end": "2019",
+            "logo": "",
+            "details": [
+                "Ramgarh, Jharkhand",
+                "Foundation in core subjects"
+            ]
+        }
+    ]
+}
