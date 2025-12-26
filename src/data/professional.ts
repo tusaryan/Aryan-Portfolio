@@ -6,7 +6,7 @@ export const professionalData = {
     {
       title: "Google Summer of Code Contributor",
       organization: "Apache Software Foundation",
-      logo: "/Aryan-Portfolio/gsoc-logo.svg",
+      logo: "/Aryan-Portfolio/GSoC-Banner.png",
       duration: "May 2025 - Present",
       description: "Selected in top 5% of 23,000+ applicants worldwide",
       highlights: [

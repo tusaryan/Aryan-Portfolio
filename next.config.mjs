@@ -1,7 +1,9 @@
+const isProd = process.env.NODE_ENV === 'production';
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '/Aryan-Portfolio',
+  output: isProd ? 'export' : undefined,
+  basePath: isProd ? '/Aryan-Portfolio' : '',
   images: {
     unoptimized: true,
     remotePatterns: [
@@ -20,5 +22,16 @@ const nextConfig = {
     ],
   },
 };
+
+if (!isProd) {
+  nextConfig.rewrites = async () => {
+    return [
+      {
+        source: '/Aryan-Portfolio/:path*',
+        destination: '/:path*',
+      },
+    ];
+  };
+}
 
 export default nextConfig;

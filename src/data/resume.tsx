@@ -39,7 +39,7 @@ export const resumeData = {
       badges: [],
       location: "Remote",
       title: "Software Developer Intern (Open Source)",
-      logoUrl: "/gsoc.svg",
+      logoUrl: "/Aryan-Portfolio/GSoC-Banner.png",
       start: "May 2025",
       end: "Oct 2025",
       description:
