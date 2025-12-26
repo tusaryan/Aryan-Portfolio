@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
+  basePath: '/Aryan-Portfolio',
   images: {
     unoptimized: true,
     remotePatterns: [
