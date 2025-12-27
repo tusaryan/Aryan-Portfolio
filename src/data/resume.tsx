@@ -6,9 +6,9 @@ export const resumeData = {
   location: "Chandigarh, India",
   locationLink: "https://www.google.com/maps/place/Chandigarh,+India",
   about:
-    "Aspiring Software Engineer with a growth mindset. Proven track record of building scalable open-source solutions and eager to apply engineering principles to solve real-world problems. Experienced in Multi-Agent Systems, Microservices, and Full Stack Development.",
+    "Software Engineer with a growth mindset. Proven track record of building scalable open-source solutions and eager to apply engineering principles to solve real-world problems. Experienced in Multi-Agent Systems, Microservices, and Full Stack Development.",
   summary:
-    "Open Source Contributor and Software Engineering Intern with experience in scalable systems, cloud infrastructure, and AI-driven applications. Contributed to Apache DolphinScheduler, optimizing performance for thousands of users. Passionate about distributed systems, microservices, and agentic AI.",
+    "Open Source Contributor and Software Engineer driven by curiosity and a relentless commitment to solving complex problems. With a background in building AI-integrated solutions and scalable full-stack systems, I specialize in bridging the gap between intelligent algorithms and reliable cloud infrastructure. What sets me apart is my agility; I am a fast learner who thrives in evolving environments, quickly mastering new technologies to deliver efficient, production-ready software. From contributing to global open-source projects (GSoC) to deploying resilient applications in the cloud, I focus on engineering solutions that make a tangible impact.",
   avatarUrl: "/Aryan-Portfolio/aryan-photo.png", // Profile image of Aryan Kumar
   personalWebsiteUrl: "https://portfolio.aryan.com", // Placeholder
   contact: {

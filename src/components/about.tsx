@@ -46,11 +46,11 @@ export function About() {
         {
             icon: Code2,
             title: "Full-Stack Development",
-            desc: "From React to Node.js, building end-to-end solutions",
+            desc: "From React, Spring Boot to Node.js, building end-to-end production-grade solutions",
         },
         {
             icon: Lightbulb,
-            title: "Problem Solving",
+            title: "Problem Solving Mindset",
             desc: "Creative solutions to complex engineering challenges",
         },
         {
